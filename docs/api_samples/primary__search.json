@@ -1,0 +1,688 @@
+[
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu",
+    "subjectCode": "TIKT1130",
+    "curriculums": [
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu",
+    "subjectCode": "EP23.TIKT1130",
+    "curriculums": [
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu đất đai",
+    "subjectCode": "TNDC1116",
+    "curriculums": [
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K65 - 2023"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu phân tán",
+    "subjectCode": "CNTT1104",
+    "curriculums": []
+  },
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu phân tán",
+    "subjectCode": "CNTT1147",
+    "curriculums": []
+  },
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu nâng cao",
+    "subjectCode": "EP15.TOKT11107",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu nâng cao",
+    "subjectCode": "EP20.TOKT11107",
+    "curriculums": [
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu nâng cao",
+    "subjectCode": "EP16.TOKT11107",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K66 - 2024"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu",
+    "subjectCode": "EP17.TIKT1130",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Cơ sở dữ liệu Địa chính",
+    "subjectCode": "TNDC1102",
+    "curriculums": []
+  },
+  {
+    "type": "subject",
+    "name": "Nhập môn cơ sở dữ liệu",
+    "subjectCode": "EP32.TOKT11120",
+    "curriculums": [
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Lý thuyết cơ sở dữ liệu",
+    "subjectCode": "DBPD1116",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Lý thuyết cơ sở dữ liệu",
+    "subjectCode": "DBTD1102",
+    "curriculums": [
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Ứng dụng cơ sở dữ liệu",
+    "subjectCode": "TIKT1124",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K66 - 2024"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Ứng dụng cơ sở dữ liệu",
+    "subjectCode": "TIKT1310",
+    "curriculums": []
+  },
+  {
+    "type": "subject",
+    "name": "Lý thuyết cơ sở dữ liệu",
+    "subjectCode": "EBDB.DBTD1102",
+    "curriculums": [
+      {
+        "year": "K62 - 2020"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Hệ quản trị cơ sở dữ liệu",
+    "subjectCode": "DBDM1117",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Nhập môn cơ sở dữ liệu",
+    "subjectCode": "EP15.TOKT11120",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Nhập môn cơ sở dữ liệu",
+    "subjectCode": "EP20.TOKT11120",
+    "curriculums": [
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Hệ quản trị cơ sở dữ liệu",
+    "subjectCode": "CNTT1109",
+    "curriculums": []
+  },
+  {
+    "type": "subject",
+    "name": "Hệ quản trị cơ sở dữ liệu",
+    "subjectCode": "CNTT1152",
+    "curriculums": [
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K66 - 2024"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Hệ quản trị cơ sở dữ liệu",
+    "subjectCode": "CNTT1152E",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Nhập môn Cơ sở dữ liệu",
+    "subjectCode": "EP16.TOKT11120",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K66 - 2024"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Lý thuyết Cơ sở dữ liệu",
+    "subjectCode": "TIKT1103",
+    "curriculums": [
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K61 - 2019"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Lý thuyết Cơ sở dữ liệu",
+    "subjectCode": "TIKT1128",
+    "curriculums": []
+  },
+  {
+    "type": "subject",
+    "name": "Lý thuyết cơ sở dữ liệu",
+    "subjectCode": "TIKT1302",
+    "curriculums": []
+  },
+  {
+    "type": "subject",
+    "name": "Hệ quản trị cơ sở dữ liệu",
+    "subjectCode": "EP29.CNTT1152",
+    "curriculums": [
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Hệ quản trị cơ sở dữ liệu",
+    "subjectCode": "EP17.CNTT1152",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K66 - 2024"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Hệ quản trị cơ sở dữ liệu",
+    "subjectCode": "EP03.CNTT1152",
+    "curriculums": [
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K61 - 2019"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Hệ quản trị cơ sở dữ liệu",
+    "subjectCode": "EBDB.CNTT1152",
+    "curriculums": [
+      {
+        "year": "K62 - 2020"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Bảo mật phần mềm và cơ sở dữ liệu",
+    "subjectCode": "CNTT1199",
+    "curriculums": [
+      {
+        "year": "K68 - 2026"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K66 - 2024"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Bảo mật phần mềm và cơ sở dữ liệu",
+    "subjectCode": "EP17.CNTT1199",
+    "curriculums": [
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K66 - 2024"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  },
+  {
+    "type": "subject",
+    "name": "Quản lý cơ sở dữ liệu trong kinh doanh",
+    "subjectCode": "IST2410",
+    "curriculums": [
+      {
+        "year": "K65 - 2023"
+      },
+      {
+        "year": "K64 - 2022"
+      },
+      {
+        "year": "K63 - 2021"
+      },
+      {
+        "year": "K62 - 2020"
+      },
+      {
+        "year": "K67 - 2025"
+      },
+      {
+        "year": "K68 - 2026"
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cmn7m3mw601tvpa9src0ubipg",
+    "name": "Khoa học dữ liệu trong Tài chính và Thương mại điện tử",
+    "admissionCode": "EP15",
+    "admissionQuota": 70,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "khoa-hoc-du-lieu-k67ep15"
+  },
+  {
+    "id": "cmn7m3mut01pspa9scp3bdzul",
+    "name": "Kiểm toán tích hợp Chứng chỉ Quốc tế ICAEW CFAB",
+    "admissionCode": "EP12",
+    "admissionQuota": 60,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "kiem-toan-tich-hop-chung-chi-quoc-te-icaew-cfab-K67EP12"
+  },
+  {
+    "id": "cmn7m3mum01ogpa9sljm2xhro",
+    "name": "Quản trị khách sạn quốc tế",
+    "admissionCode": "EP11",
+    "admissionQuota": 50,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "quan-tri-khach-san-quoc-te-K67EP11"
+  },
+  {
+    "id": "cmn7m3mwg01vdpa9swsp04scc",
+    "name": "Trí tuệ nhân tạo",
+    "admissionCode": "EP16",
+    "admissionQuota": 80,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "tri-tue-nhan-tao-K67EP16"
+  },
+  {
+    "id": "cmn7n7xx1000vpab6ozyfxkzt",
+    "name": "Quản trị công nghiệp sáng tạo",
+    "admissionCode": "EP27",
+    "admissionQuota": 50,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "quan-tri-cong-nghiep-sang-tao-k68ep27"
+  },
+  {
+    "id": "cmn7n7xtl000bpab67h3s1n2f",
+    "name": "Toán ứng dụng",
+    "admissionCode": "EP30",
+    "admissionQuota": 50,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "toan-ung-dung-K68EP30"
+  },
+  {
+    "id": "cmn7m3mt001hipa9s94y19hjx",
+    "name": "Kế toán tích hợp chứng chỉ quốc tế ICAEW CFAB",
+    "admissionCode": "EP04",
+    "admissionQuota": 60,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "ke-toan-tich-hop-chung-chi-quoc-te-icaew-cfab-K67EP04"
+  },
+  {
+    "id": "cmn7m3mln00aipa9scvzok1q0",
+    "name": "Phân tích dữ liệu kinh tế",
+    "admissionCode": "EP03",
+    "admissionQuota": 90,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "phan-tich-du-lieu-kinh-te-k68-K687310108"
+  },
+  {
+    "id": "cmn7m3msj01espa9saxh0wohv",
+    "name": "Khởi nghiệp và phát triển kinh doanh (BBAE)",
+    "admissionCode": "EP01",
+    "admissionQuota": 90,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "khoi-nghiep-va-phat-trien-kinh-doanh-bbae-K67EP01"
+  },
+  {
+    "id": "cmn7m3mvt01sipa9s214b5hjx",
+    "name": "Logistics và quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế",
+    "admissionCode": "EP14",
+    "admissionQuota": 100,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "logistics-va-quan-ly-chuoi-cung-ung-tich-hop-chung-chi-quoc-te-K67EP14"
+  },
+  {
+    "id": "cmn7n7xxj0011pab63rp2jsdz",
+    "name": "Quản trị nhân lực quốc tế",
+    "admissionCode": "EP28",
+    "admissionQuota": 40,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "quan-tri-nhan-luc-quoc-te-k68ep28"
+  },
+  {
+    "id": "cmn7n7y0n001vpab6vu1xx7jg",
+    "name": "Thẩm định giá",
+    "admissionCode": "EP31",
+    "admissionQuota": 50,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "tham-inh-gia-k68ep31"
+  },
+  {
+    "id": "cmn7m3mua01n8pa9sxyu6l50a",
+    "name": "Công nghệ tài chính",
+    "admissionCode": "7340205",
+    "admissionQuota": 50,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "cong-nghe-tai-chinh-k68-k68ep09"
+  },
+  {
+    "id": "cmn7n7xyj001bpab6tumwr7k0",
+    "name": "Phát triển quốc tế",
+    "admissionCode": "EP25",
+    "admissionQuota": 40,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "phat-trien-quoc-te-k68ep25"
+  },
+  {
+    "id": "cmn7n7xuk000jpab6xr14cvd6",
+    "name": "Thống kê và Trí tuệ Kinh doanh",
+    "admissionCode": "EP32",
+    "admissionQuota": 50,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "thong-ke-va-tri-tue-kinh-doanh-k68ep32"
+  },
+  {
+    "id": "cmn7n7y10001zpab6un221job",
+    "name": "Công nghệ tài chính và Ngân hàng số",
+    "admissionCode": "EP09",
+    "admissionQuota": 100,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "cong-nghe-tai-chinh-va-ngan-hang-so-k68ep09-1"
+  },
+  {
+    "id": "cmn7n7xvh000npab64qa5xm16",
+    "name": "Quản trị rủi ro định lượng",
+    "admissionCode": "EP29",
+    "admissionQuota": 50,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "quan-tri-rui-ro-dinh-luong-k68ep29"
+  },
+  {
+    "id": "cmn7m3mu001lqpa9s2cdcjzw9",
+    "name": "Quản trị chất lượng và đổi mới",
+    "admissionCode": "EP08",
+    "admissionQuota": 70,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "quan-tri-chat-luong-va-doi-moi-K67EP08"
+  },
+  {
+    "id": "cmn7n7xu1000fpab6l9ghm4rq",
+    "name": "Công nghệ Logistics và Quản trị chuỗi cung ứng",
+    "admissionCode": "EP20",
+    "admissionQuota": 50,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "cong-nghe-logistics-va-quan-tri-chuoi-cung-ung-k68ep20"
+  },
+  {
+    "id": "cmn7m3n3s031lpa9sbmsl4yn8",
+    "name": "Phân tích kinh doanh",
+    "admissionCode": "EP06",
+    "admissionQuota": 60,
+    "admissionCutoffScore": null,
+    "year": "K68 - 2026",
+    "slug": "phan-tich-kinh-doanh-k68-K68340101"
+  }
+]

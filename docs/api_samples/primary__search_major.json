@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cmn6ahdbf000rsb9vdeo7sk5y",
+    "name": "Ngôn ngữ Anh",
+    "majorCode": "7220201",
+    "slug": "ngon-ngu-anh-7220201",
+    "localizations": []
+  },
+  {
+    "id": "import-﻿7310101",
+    "name": "Kinh tế",
+    "majorCode": "7310101",
+    "slug": "kinh-te-﻿7310101",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiaiw000zsbpt152fel4e",
+    "name": "Kinh tế đầu tư",
+    "majorCode": "7310104",
+    "slug": "kinh-te-dau-tu-7310104",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiaiy0011sbpt9e6qxxc1",
+    "name": "Kinh tế phát triển",
+    "majorCode": "7310105",
+    "slug": "kinh-te-phat-trien-7310105",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiaj00013sbptmu4tbciu",
+    "name": "Kinh tế quốc tế",
+    "majorCode": "7310106",
+    "slug": "kinh-te-quoc-te-7310106",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiaj30015sbptp6h8x9of",
+    "name": "Thống kê kinh tế",
+    "majorCode": "7310107",
+    "slug": "thong-ke-kinh-te-7310107",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiaj50017sbptbu1wtu62",
+    "name": "Toán kinh tế",
+    "majorCode": "7310108",
+    "slug": "toan-kinh-te-7310108",
+    "localizations": []
+  },
+  {
+    "id": "import-7310109",
+    "name": "Kinh tế số",
+    "majorCode": "7310109",
+    "slug": "kinh-te-so-7310109",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiaj70019sbptr7tbyk9b",
+    "name": "Quan hệ công chúng",
+    "majorCode": "7320108",
+    "slug": "quan-he-cong-chung-7320108",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiaj8001bsbpt37ujgnz1",
+    "name": "Quản trị kinh doanh",
+    "majorCode": "7340101",
+    "slug": "quan-tri-kinh-doanh-7340101",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiajb001dsbptz5716h2t",
+    "name": "Marketing",
+    "majorCode": "7340115",
+    "slug": "marketing-7340115",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiajd001fsbpt4f95stbc",
+    "name": "Bất động sản",
+    "majorCode": "7340116",
+    "slug": "bat-dong-san-7340116",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiaje001hsbptx5x8eki3",
+    "name": "Kinh doanh quốc tế",
+    "majorCode": "7340120",
+    "slug": "kinh-doanh-quoc-te-7340120",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiajg001jsbptoecszwr2",
+    "name": "Kinh doanh thương mại",
+    "majorCode": "7340121",
+    "slug": "kinh-doanh-thuong-mai-7340121",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiaji001lsbptgd0jh89s",
+    "name": "Thương mại điện tử",
+    "majorCode": "7340122",
+    "slug": "thuong-mai-dien-tu-7340122",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiajk001nsbptzln577j0",
+    "name": "Tài chính - Ngân hàng",
+    "majorCode": "7340201",
+    "slug": "tai-chinh-ngan-hang-7340201",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiajw001zsbptez7w8x6u",
+    "name": "Bảo hiểm",
+    "majorCode": "7340204",
+    "slug": "bao-hiem-7340204",
+    "localizations": []
+  },
+  {
+    "id": "import-7340205",
+    "name": "Công nghệ tài chính",
+    "majorCode": "7340205",
+    "slug": "cong-nghe-tai-chinh-7340205",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiak00023sbptl2o7rcs8",
+    "name": "Kế toán",
+    "majorCode": "7340301",
+    "slug": "ke-toan-7340301",
+    "localizations": []
+  },
+  {
+    "id": "cmn6aiak50029sbpt070rflfn",
+    "name": "Kiểm toán",
+    "majorCode": "7340302",
+    "slug": "kiem-toan-7340302",
+    "localizations": []
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "team.webp",
+    "description": "Nhóm đồng nghiệp cùng làm việc với máy tính",
+    "provider": "Unsplash",
+    "source_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=84&fm=webp",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "sha256": "edcef626c15760d7157ca7f272109eb2ae2e97ac9c6ce6367597e09f05ef9f6c"
+  },
+  {
+    "file": "fullstack.webp",
+    "description": "Nhóm phát triển sản phẩm làm việc cùng các thiết bị số",
+    "provider": "Unsplash",
+    "source_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=84&fm=webp",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "sha256": "5bc20ccdea0f52bd29d6fe490157ba609b33fa15ed0ddb6ccc2cf9d05599745f"
+  },
+  {
+    "file": "mobile.webp",
+    "description": "Điện thoại thông minh và ứng dụng di động",
+    "provider": "Unsplash",
+    "source_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=84&fm=webp",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "sha256": "b711859cd9895acbcb9296325a1ef275822d7e2a6b46395ad634393ecd0bd19c"
+  },
+  {
+    "file": "data-scientist.webp",
+    "description": "Phân tích tài liệu và dữ liệu tại bàn làm việc",
+    "provider": "Unsplash",
+    "source_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=84&fm=webp",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "sha256": "ba8bbd035b70e3f17825817727fd53b4d2e55cdef3011f1ffa9104ad00f5cb44"
+  },
+  {
+    "file": "business-analyst.webp",
+    "description": "Đồng nghiệp trao đổi và phân tích nhu cầu công việc",
+    "provider": "Unsplash",
+    "source_url": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1200&q=84&fm=webp",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "sha256": "3598dd55d8ab3f3b4a469486ff249b1a0d2947f0ec50e80d2476b12afe9583b2"
+  },
+  {
+    "file": "system-analyst.webp",
+    "description": "Nhóm chuyên môn thảo luận và lập kế hoạch hệ thống",
+    "provider": "Unsplash",
+    "source_url": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=84&fm=webp",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "sha256": "37f63ff9c2502c6695cb1230411f3d89fcca4de6df3840253042cc014ecbed35"
+  }
+]

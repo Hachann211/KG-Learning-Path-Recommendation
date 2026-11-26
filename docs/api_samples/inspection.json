@@ -1,0 +1,89 @@
+[
+  {
+    "source": "primary",
+    "url": "https://courses.neu.edu.vn/api/search?q=c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u&limit=5",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "json_type": "list",
+    "keys": null,
+    "sample": "docs\\api_samples\\primary__search.json",
+    "elapsed_seconds": 0.91
+  },
+  {
+    "source": "primary",
+    "url": "https://courses.neu.edu.vn/api/search/curriculum",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "json_type": "list",
+    "keys": null,
+    "sample": "docs\\api_samples\\primary__search_curriculum.json",
+    "elapsed_seconds": 0.78
+  },
+  {
+    "source": "primary",
+    "url": "https://courses.neu.edu.vn/api/search/major",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "json_type": "list",
+    "keys": null,
+    "sample": "docs\\api_samples\\primary__search_major.json",
+    "elapsed_seconds": 0.75
+  },
+  {
+    "source": "mirror",
+    "url": "http://10.2.11.23:1340/api/search?q=c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u&limit=5",
+    "error": "ConnectTimeout: timed out",
+    "elapsed_seconds": 8.71
+  },
+  {
+    "source": "mirror",
+    "url": "http://10.2.11.23:1340/api/search/curriculum",
+    "error": "ConnectTimeout: timed out",
+    "elapsed_seconds": 8.71
+  },
+  {
+    "source": "mirror",
+    "url": "http://10.2.11.23:1340/api/search/major",
+    "error": "ConnectTimeout: timed out",
+    "elapsed_seconds": 8.71
+  },
+  {
+    "source": "fallback",
+    "url": "http://101.96.66.222:8025/api/v1/search?q=c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u&limit=5",
+    "status": 404,
+    "content_type": "application/json",
+    "json_type": "dict",
+    "keys": [
+      "detail"
+    ],
+    "elapsed_seconds": 0.72
+  },
+  {
+    "source": "fallback",
+    "url": "http://101.96.66.222:8025/api/v1/search/curriculum",
+    "status": 404,
+    "content_type": "application/json",
+    "json_type": "dict",
+    "keys": [
+      "detail"
+    ],
+    "elapsed_seconds": 0.72
+  },
+  {
+    "source": "fallback",
+    "url": "http://101.96.66.222:8025/api/v1/search/major",
+    "status": 404,
+    "content_type": "application/json",
+    "json_type": "dict",
+    "keys": [
+      "detail"
+    ],
+    "elapsed_seconds": 0.72
+  },
+  {
+    "source": "primary",
+    "status": "NOT_VERIFIED",
+    "url": "https://courses.neu.edu.vn/api/public/d3-syllabus/syllabus/{id}",
+    "error": "No verified syllabus ID was observed. Rerun with --syllabus-id after confirming the subject-code/ID mapping. The teaching-plans endpoint is also unverified."
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "links": [
+    {
+      "text": "Đại học Kinh tế Quốc dân\nChương trình đào tạo",
+      "href": "/"
+    },
+    {
+      "text": "Địa chất học\n→\nAEP.BA.",
+      "href": "/syllabus/K67/vi/AEP_dot_BA_dot_"
+    },
+    {
+      "text": "Hội thảo/Đề án về ngành\n→\nCDTT_AEP2",
+      "href": "/syllabus/K67/vi/CDTT_AEP2"
+    },
+    {
+      "text": "Trí tuệ kinh doanh\n→\nCNTT11119E",
+      "href": "/syllabus/K67/vi/CNTT11119E"
+    },
+    {
+      "text": "Cơ sở lập trình\n→\nCNTT1128E",
+      "href": "/syllabus/K67/vi/CNTT1128E"
+    },
+    {
+      "text": "Khóa luận tốt nghiệp\n→\nEP02.1101",
+      "href": "/syllabus/K67/en/EP02_dot_1101"
+    },
+    {
+      "text": "Kinh tế bảo hiểm\n→\nEP02.BHKT1156",
+      "href": "/syllabus/K67/en/EP02_dot_BHKT1156"
+    },
+    {
+      "text": "Kinh tế đầu tư\n→\nEP02.DTKT1154",
+      "href": "/syllabus/K67/en/EP02_dot_DTKT1154"
+    },
+    {
+      "text": "Kinh tế vĩ mô 1\n→\nEP02.KHMA1101",
+      "href": "/syllabus/K67/en/EP02_dot_KHMA1101"
+    },
+    {
+      "text": "Kinh tế vi mô 1\n→\nEP02.KHMI1101",
+      "href": "/syllabus/K67/en/EP02_dot_KHMI1101"
+    },
+    {
+      "text": "Nguyên lý kế toán\n→\nEP02.KTKE1101",
+      "href": "/syllabus/K67/en/EP02_dot_KTKE1101"
+    },
+    {
+      "text": "Pháp luật đại cương\n→\nEP02.LUCS1129",
+      "href": "/syllabus/K67/en/EP02_dot_LUCS1129"
+    },
+    {
+      "text": "Pháp luật kinh doanh\n→\nEP02.LUKD1118",
+      "href": "/syllabus/K67/en/EP02_dot_LUKD1118"
+    },
+    {
+      "text": "Pháp luật kinh doanh bảo hiểm\n→\nEP02.LUKD1184",
+      "href": "/syllabus/K67/en/EP02_dot_LUKD1184"
+    },
+    {
+      "text": "Lý thuyết tài chính tiền tệ 1\n→\nEP02.NHLT1101",
+      "href": "/syllabus/K67/en/EP02_dot_NHLT1101"
+    },
+    {
+      "text": "Tiếng Anh - Thực hành tổng hợp 1\n→\nEP02.NNKC1161",
+      "href": "/syllabus/K67/en/EP02_dot_NNKC1161"
+    },
+    {
+      "text": "Đại số\n→\nEP02.TOCB1101",
+      "href": "/syllabus/K67/en/EP02_dot_TOCB1101"
+    },
+    {
+      "text": "Giải tích 2\n→\nEP02.TOCB1103",
+      "href": "/syllabus/K67/en/EP02_dot_TOCB1103"
+    },
+    {
+      "text": "Giải tích 1\n→\nEP02.TOCB1111",
+      "href": "/syllabus/K67/en/EP02_dot_TOCB1111"
+    },
+    {
+      "text": "Kinh tế lượng 1\n→\nEP02.TOKT1101",
+      "href": "/syllabus/K67/en/EP02_dot_TOKT1101"
+    },
+    {
+      "text": "Lý thuyết xác suất\n→\nEP02.TOKT1105",
+      "href": "/syllabus/K67/en/EP02_dot_TOKT1105"
+    },
+    {
+      "text": "1",
+      "href": null
+    },
+    {
+      "text": "2",
+      "href": null
+    },
+    {
+      "text": "3",
+      "href": null
+    },
+    {
+      "text": "4",
+      "href": null
+    },
+    {
+      "text": "5",
+      "href": null
+    },
+    {
+      "text": "•••",
+      "href": null
+    },
+    {
+      "text": "63",
+      "href": null
+    },
+    {
+      "text": "facebook.com/ktqdNEU",
+      "href": "https://www.facebook.com/ktqdNEU/"
+    },
+    {
+      "text": "Đại học Kinh tế Quốc dân",
+      "href": "https://www.neu.edu.vn"
+    },
+    {
+      "text": "Trang chủ",
+      "href": "/"
+    },
+    {
+      "text": "Hướng dẫn sử dụng",
+      "href": "https://courses.neu.edu.vn/post/huong-dan-su-dung-he-thong-tra-cuu-chuong-trinh-dao-tao-cua-dai-hoc-kinh-te-quoc-dan"
+    }
+  ],
+  "routes": [
+    "https://courses.neu.edu.vn/api/curriculum-curricula/years?locale=vi",
+    "https://courses.neu.edu.vn/api/curriculum-schools?populate=curriculum_faculties&pagination[page]=1&pagination[pageSize]=200&locale=vi",
+    "https://courses.neu.edu.vn/api/curriculum-curricula?pagination%5BwithCount%5D=true&populate=%2A&filters%5Byear%5D=K68%20-%202026&locale=vi&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=1",
+    "https://courses.neu.edu.vn/api/curriculum-curricula?pagination%5BwithCount%5D=true&populate=%2A&filters%5Byear%5D=K68%20-%202026&locale=vi&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=500",
+    "https://courses.neu.edu.vn/api/curriculum-faculties?populate=curriculum_majors&pagination[withCount]=false&pagination[pageSize]=500&locale=vi",
+    "https://courses.neu.edu.vn/api/search?q=C%C6%A1+s%E1%BB%9F+d%E1%BB%AF+li%E1%BB%87u&locale=vi&limit=99"
+  ]
+}

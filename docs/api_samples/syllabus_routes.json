@@ -1,0 +1,12 @@
+{
+  "url": "https://courses.neu.edu.vn/",
+  "routes": [
+    "https://courses.neu.edu.vn/api/curriculum-curricula/years?locale=vi",
+    "https://courses.neu.edu.vn/api/curriculum-schools?populate=curriculum_faculties&pagination[page]=1&pagination[pageSize]=200&locale=vi",
+    "https://courses.neu.edu.vn/api/curriculum-curricula?pagination%5BwithCount%5D=true&populate=%2A&filters%5Byear%5D=K68%20-%202026&locale=vi&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=1",
+    "https://courses.neu.edu.vn/api/curriculum-curricula?pagination%5BwithCount%5D=true&populate=%2A&filters%5Byear%5D=K68%20-%202026&locale=vi&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=500",
+    "https://courses.neu.edu.vn/api/curriculum-faculties?populate=curriculum_majors&pagination[withCount]=false&pagination[pageSize]=500&locale=vi",
+    "https://courses.neu.edu.vn/api/search?q=C%C6%A1+s%E1%BB%9F+d%E1%BB%AF+li%E1%BB%87u&locale=vi&limit=99"
+  ],
+  "text": "Đại học Kinh tế Quốc dân\nChương trình đào tạo\nChương trình đào tạo (104)\nKhoa/Viện (26)\nTrường (3)\nĐăng nhập\n\nĐại học Kinh tế Quốc dân\n\n207 Giải Phóng,Bạch mai, Hà Nội, Việt Nam\n\n(84)24.36.280.280\n\n(84)24.38.695.992\n\nfacebook.com/ktqdNEU\n\nBản quyền thuộc về: \nĐại học Kinh tế Quốc dân\nTrang chủ\nHướng dẫn sử dụng\nHỏi AI"
+}

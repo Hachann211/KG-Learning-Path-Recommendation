@@ -1,0 +1,62 @@
+{
+  "PY": {
+    "outcomes": ["Viết chương trình Python có hàm, cấu trúc điều khiển và xử lý ngoại lệ.", "Đọc, làm sạch và lưu dữ liệu từ tệp CSV/JSON.", "Xây dựng ứng dụng quản lý chi tiêu cá nhân bằng dòng lệnh."],
+    "lessons": ["Biến, kiểu dữ liệu và cấu trúc điều khiển", "Hàm, danh sách, từ điển và xử lý ngoại lệ", "Thực hành xử lý tệp CSV/JSON và tổ chức mã nguồn", "Dự án quản lý chi tiêu cá nhân và trình bày kết quả"]
+  },
+  "DSA": {
+    "outcomes": ["Lựa chọn cấu trúc dữ liệu phù hợp với yêu cầu bài toán.", "Phân tích độ phức tạp thời gian và bộ nhớ của giải thuật.", "Cài đặt tìm kiếm, sắp xếp và duyệt đồ thị trên dữ liệu mẫu."],
+    "lessons": ["Độ phức tạp và các kỹ thuật phân tích giải thuật", "Danh sách, ngăn xếp, hàng đợi và bảng băm", "Cây, đồ thị, tìm kiếm và sắp xếp", "Dự án tìm đường trên bản đồ mô phỏng"]
+  },
+  "DB": {
+    "outcomes": ["Thiết kế sơ đồ thực thể liên kết và chuyển sang mô hình quan hệ.", "Viết truy vấn JOIN, GROUP BY, truy vấn con và ràng buộc dữ liệu.", "Xây dựng cơ sở dữ liệu quản lý đăng ký học phần giả lập."],
+    "lessons": ["Mô hình quan hệ, khóa và ràng buộc toàn vẹn", "SQL cơ bản, JOIN, truy vấn con và tổng hợp", "Chuẩn hóa dữ liệu và thiết kế sơ đồ ER", "Dự án cơ sở dữ liệu đăng ký học phần"]
+  },
+  "OOP": {
+    "outcomes": ["Mô hình hóa bài toán bằng lớp, đối tượng và quan hệ giữa các lớp.", "Vận dụng đóng gói, kế thừa và đa hình trong thiết kế phần mềm.", "Tổ chức ứng dụng thư viện theo các trách nhiệm tách biệt."],
+    "lessons": ["Lớp, đối tượng, thuộc tính và phương thức", "Đóng gói, kế thừa, đa hình và giao diện", "Nguyên lý SOLID và tổ chức mã nguồn", "Dự án quản lý thư viện theo hướng đối tượng"]
+  },
+  "WEB": {
+    "outcomes": ["Xây dựng giao diện web thích ứng bằng HTML, CSS và JavaScript.", "Xử lý biểu mẫu, phiên đăng nhập và kết nối cơ sở dữ liệu.", "Hoàn thiện ứng dụng quản lý công việc với các chức năng CRUD."],
+    "lessons": ["HTML ngữ nghĩa, CSS và bố cục thích ứng", "JavaScript, DOM, biểu mẫu và giao thức HTTP", "Flask, định tuyến, phiên đăng nhập và cơ sở dữ liệu", "Dự án ứng dụng quản lý công việc cá nhân"]
+  },
+  "ADB": {
+    "outcomes": ["Phân tích kế hoạch thực thi và lựa chọn chỉ mục cho truy vấn.", "Giải thích giao dịch, mức cô lập và tính nhất quán dữ liệu.", "Thực hiện sao lưu, phục hồi và phân quyền trên cơ sở dữ liệu mẫu."],
+    "lessons": ["Kiến trúc hệ quản trị và vòng đời truy vấn", "Chỉ mục, kế hoạch thực thi và tối ưu SQL", "Giao dịch, khóa, đồng thời và phân quyền", "Thực hành sao lưu, phục hồi và kiểm tra hiệu năng"]
+  },
+  "API": {
+    "outcomes": ["Thiết kế tài nguyên, HTTP method, mã phản hồi và phân trang nhất quán.", "Triển khai xác thực, phân quyền và kiểm tra dữ liệu đầu vào.", "Viết tài liệu và kiểm thử API cho ứng dụng quản lý công việc."],
+    "lessons": ["REST, tài nguyên, HTTP method và mã phản hồi", "Thiết kế schema, kiểm tra dữ liệu và xử lý lỗi", "Xác thực, phân quyền và kiểm thử tích hợp", "Dự án API quản lý công việc và tài liệu sử dụng"]
+  },
+  "NET": {
+    "outcomes": ["Giải thích vai trò các tầng mạng và giao thức TCP/IP.", "Tính toán địa chỉ mạng con và mô tả quá trình định tuyến.", "Phân tích luồng DNS/HTTP trong môi trường thực hành được phép."],
+    "lessons": ["Mô hình OSI, TCP/IP và thiết bị mạng", "Địa chỉ IP, subnetting và định tuyến", "TCP, UDP, DNS, HTTP và phân tích gói tin", "Thiết kế mô hình mạng cho văn phòng giả lập"]
+  },
+  "OS": {
+    "outcomes": ["Giải thích cơ chế quản lý tiến trình, luồng và bộ nhớ.", "Sử dụng lệnh Linux để quản lý tệp, quyền và dịch vụ.", "Viết shell script hỗ trợ sao lưu và theo dõi tài nguyên máy."],
+    "lessons": ["Kiến trúc hệ điều hành và quản lý tiến trình", "Luồng, đồng bộ, lập lịch và bộ nhớ ảo", "Hệ thống tệp, phân quyền và môi trường Linux", "Thực hành shell script sao lưu và giám sát tài nguyên"]
+  },
+  "SEC": {
+    "outcomes": ["Nhận diện rủi ro và xây dựng mô hình đe dọa cho hệ thống mẫu.", "Giải thích băm mật khẩu, mã hóa và kiểm soát truy cập.", "Đề xuất biện pháp bảo vệ ứng dụng và quy trình xử lý sự cố."],
+    "lessons": ["Mô hình đe dọa, tài sản và đánh giá rủi ro", "Mã hóa, băm mật khẩu và kiểm soát truy cập", "Bảo vệ ứng dụng web và cấu hình hệ thống", "Dự án rà soát bảo mật trên ứng dụng thực hành"]
+  },
+  "ML": {
+    "outcomes": ["Chuẩn bị dữ liệu và phân chia tập huấn luyện, đánh giá phù hợp.", "Huấn luyện mô hình hồi quy, phân loại và so sánh các chỉ số.", "Nhận diện rò rỉ dữ liệu, quá khớp và giới hạn của mô hình."],
+    "lessons": ["Quy trình học máy, dữ liệu và đặc trưng", "Hồi quy, phân loại và các mô hình nền tảng", "Đánh giá mô hình, kiểm định chéo và chống quá khớp", "Dự án dự báo trên bộ dữ liệu thực hành"]
+  },
+  "DA": {
+    "outcomes": ["Làm sạch, kết hợp và phân tích dữ liệu bằng Python và SQL.", "Lựa chọn biểu đồ phù hợp với câu hỏi phân tích.", "Xây dựng báo cáo trực quan và trình bày kết luận có căn cứ."],
+    "lessons": ["Xác định câu hỏi và chuẩn bị dữ liệu phân tích", "Pandas, SQL và xử lý dữ liệu thiếu", "Thống kê mô tả, biểu đồ và dashboard", "Dự án phân tích doanh thu trên dữ liệu giả lập"]
+  },
+  "UX": {
+    "outcomes": ["Xác định nhu cầu người dùng và xây dựng hành trình trải nghiệm.", "Thiết kế wireframe và prototype có hệ thống thành phần nhất quán.", "Đánh giá tính dễ dùng và khả năng tiếp cận của giao diện mẫu."],
+    "lessons": ["Nghiên cứu người dùng, persona và hành trình trải nghiệm", "Kiến trúc thông tin, wireframe và thiết kế tương tác", "Màu sắc, kiểu chữ, thành phần và prototype", "Kiểm tra tính dễ dùng cho ứng dụng học tập"]
+  },
+  "QA": {
+    "outcomes": ["Thiết kế ca kiểm thử từ yêu cầu và tiêu chí chấp nhận.", "Thực hiện kiểm thử đơn vị, API và giao diện tự động.", "Ghi nhận lỗi, theo dõi hồi quy và lập báo cáo chất lượng."],
+    "lessons": ["Vòng đời kiểm thử, yêu cầu và kế hoạch chất lượng", "Phân vùng tương đương, giá trị biên và test case", "Kiểm thử đơn vị, API và tự động hóa giao diện", "Dự án kiểm thử hồi quy ứng dụng quản lý công việc"]
+  },
+  "CLOUD": {
+    "outcomes": ["Phân biệt các mô hình dịch vụ đám mây và lựa chọn cách triển khai.", "Thiết lập quy trình kiểm thử, đóng gói và triển khai tự động.", "Theo dõi log, tài nguyên và lập phương án khôi phục ứng dụng."],
+    "lessons": ["Mô hình đám mây, hạ tầng và quản lý cấu hình", "Container, đóng gói và triển khai ứng dụng", "Git, CI/CD, kiểm thử và quản lý môi trường", "Dự án triển khai, giám sát và khôi phục ứng dụng mẫu"]
+  }
+}

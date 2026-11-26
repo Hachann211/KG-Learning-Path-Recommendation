@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="csrf-token" content="{{ csrf_token() }}">
+  <meta name="description" content="Khám phá lộ trình học tập cá nhân hóa, kết nối môn học với kỹ năng và nghề nghiệp tương lai.">
+  <title>Lộ trình của tôi · NEU Learning Path</title>
+  <meta name="theme-color" content="#00558F">
+  <link rel="icon" type="image/svg+xml" href="{{ url_for('static', filename='images/favicon.svg', v='blue-2') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css', v='demo-accounts-1') }}">
+  <script src="{{ url_for('static', filename='vendor/lucide.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='vendor/cytoscape.min.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='vendor/chart.min.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='js/app.js', v='demo-accounts-1') }}" defer></script>
+  {% if page=='admin' %}<script src="{{ url_for('static', filename='js/admin-extras.js') }}" defer></script>{% endif %}
+</head>
+<body data-page="{{ page }}" data-auth="{{ 'true' if current_user.is_authenticated else 'false' }}">
+  <div class="mobile-overlay" id="mobile-overlay"></div>
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="/" aria-label="NEU Learning Path"><img class="brand-mark" src="{{ url_for('static', filename='images/logo-mark.svg', v='blue-2') }}" width="44" height="48" alt=""><span class="brand-copy"><strong>NEU</strong><b>Learning Path</b></span></a>
+    <div class="workspace"><span class="workspace-icon"><i data-lucide="graduation-cap"></i></span><div>Không gian học tập<small>Dành cho sinh viên</small></div><i data-lucide="chevrons-up-down"></i></div>
+    <div class="nav-caption">KHÁM PHÁ</div>
+    <nav aria-label="Điều hướng chính">
+      <a href="/dashboard" class="nav-link {{ 'active' if page=='dashboard' }}"><i data-lucide="layout-dashboard"></i>Tổng quan</a>
+      <a href="/" class="nav-link {{ 'active' if page=='roadmap' }}"><i data-lucide="route"></i>Lộ trình của tôi<span class="nav-dot"></span></a>
+      <a href="/courses" class="nav-link {{ 'active' if page=='courses' }}"><i data-lucide="book-open"></i>Khám phá môn học</a>
+      <a href="/careers" class="nav-link {{ 'active' if page=='careers' }}"><i data-lucide="briefcase-business"></i>Định hướng nghề nghiệp</a>
+      <a href="/graph" class="nav-link {{ 'active' if page=='graph' }}"><i data-lucide="network"></i>Đồ thị tri thức<span class="nav-new">MỚI</span></a>
+    </nav>
+    <div class="nav-caption second">CÁ NHÂN</div>
+    <nav aria-label="Tài khoản">
+      <a href="/saved" class="nav-link {{ 'active' if page=='saved' }}"><i data-lucide="bookmark"></i>Lộ trình đã lưu</a>
+      <a href="/profile" class="nav-link {{ 'active' if page=='profile' }}"><i data-lucide="user-round"></i>Hồ sơ học tập</a>
+      {% if current_user.is_authenticated and current_user.role=='admin' %}<a href="/admin" class="nav-link {{ 'active' if page=='admin' }}"><i data-lucide="shield-check"></i>Quản trị hệ thống</a>{% endif %}
+    </nav>
+    <div class="sidebar-bottom">
+      <div class="help-card"><span class="help-icon"><i data-lucide="sparkles"></i></span><h4>Mỗi bước nhỏ,<br>một tương lai lớn.</h4><p>Lộ trình phù hợp bắt đầu từ<br>chính mục tiêu của bạn.</p><button class="btn help-button" data-action="create">Khám phá lộ trình <i data-lucide="arrow-up-right"></i></button></div>
+      <button class="support" data-action="guide"><i data-lucide="circle-help"></i>Hướng dẫn sử dụng<i data-lucide="arrow-up-right"></i></button>
+      <div class="sidebar-footer"><span class="online-dot"></span>Phiên bản học tập <span>v1.0</span></div>
+    </div>
+  </aside>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="topbar-left"><button class="icon-button mobile-menu" id="menu-toggle" aria-label="Mở điều hướng"><i data-lucide="menu"></i></button><a class="mobile-brand" href="/" aria-label="NEU Learning Path"><img src="{{ url_for('static', filename='images/logo-mark.svg', v='blue-2') }}" width="28" height="30" alt=""></a><span class="topbar-title">Không gian học tập</span><span class="topbar-divider">/</span><span id="breadcrumb-title">Lộ trình của tôi</span></div>
+      <div class="topbar-right"><button class="global-search" data-action="search"><i data-lucide="search"></i><span>Tìm kiếm môn học...</span><kbd>Ctrl K</kbd></button><span class="header-divider"></span><button class="icon-button notification" data-action="notifications" aria-label="Thông báo"><i data-lucide="bell"></i><b></b></button><button class="user-menu" data-action="account"><span class="avatar">{{ current_user.name[:1]|upper if current_user.is_authenticated else 'B' }}</span><span class="user-info">{{ current_user.name if current_user.is_authenticated else 'Bạn học mới' }}<small>{{ 'Quản trị viên' if current_user.is_authenticated and current_user.role=='admin' else 'Sinh viên NEU' if current_user.is_authenticated else 'Khám phá cùng NEU' }}</small></span><i data-lucide="chevron-down"></i></button></div>
+    </header>
+    <main id="main-content">
+      <div class="page-heading"><div><div class="eyebrow">HỌC TẬP CÓ ĐỊNH HƯỚNG</div><h1 id="page-title">Lộ trình của tôi<span class="heading-dot">.</span></h1><p id="page-subtitle">Từng bước chinh phục kiến thức, vững bước đến nghề nghiệp mơ ước.</p></div><div class="heading-actions"><button class="btn btn-white" id="guide-button" data-action="guide"><i data-lucide="book-open-text"></i>Hướng dẫn</button><button class="btn btn-primary" data-action="create"><i data-lucide="plus"></i>Tạo lộ trình mới</button></div></div>
+      <section id="view-content" aria-live="polite"><div class="loading-state"><span class="spinner"></span>Đang chuẩn bị lộ trình cho bạn...</div></section>
+      {% if page in ['roadmap', 'dashboard'] %}<div class="export-row"><span><i data-lucide="file-text"></i> Mang theo kế hoạch cho hành trình tiếp theo.</span><button class="btn btn-white btn-small" data-action="export"><i data-lucide="download"></i>Xuất PDF</button></div>{% endif %}
+      <footer class="page-footer"><span>NEU Learning Path <span class="footer-dot">·</span> Học đúng hướng, tiến xa hơn.</span><span class="demo-note"><span></span>Dữ liệu minh họa – không phải chương trình đào tạo chính thức</span></footer>
+    </main>
+  </div>
+  <div class="toast-region" id="toasts" role="status"></div>
+  <dialog id="modal"><div id="modal-content"></div></dialog>
+  <script id="app-data" type="application/json">{{ {'majors':majors|map(attribute='id')|list,'careers':careers|map(attribute='id')|list}|tojson }}</script>
+</body>
+</html>
